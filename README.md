@@ -8,3 +8,4 @@ I tried to write the solutions somewhat fast so the code isn't the most optimal 
 - [x] Day 2
 - [x] Day 3      
 - [x] Day 4
+- [x] Day 5
